@@ -135,7 +135,15 @@ img {
     color: #676CDB;
     margin-top: 50px;
 }
-. {
+.banner3 {
+    position: absolute;
+    width: 1441px;
+    height: 1164px;
+    left: 0px;
+    top: 943px;
+    background: #222A36;
+}
+.box {
     background: #676CDB;
     transform: rotate(90.47deg);
 }
